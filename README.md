@@ -6,8 +6,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as full-stack developer. I specialized in React, Node.js, MongoDB and Express. Furthermore I have extensive experience with Next, Solid and so on.
-- 🌱 I’m currently learning Angular and Jam Stack development.
-- 👯 I’m looking to collaborate on good teams and indivisuals.
-- 🤔 I’m looking for help with Jam stack developers.
+- 🌱 I'd like to collaborate geed team members and individuals. And always looking for new ideas and conceps in web application development.
 - 📫 How to reach me: (716) 555-0100
 -->
